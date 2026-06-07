@@ -31,6 +31,7 @@ it-postmortem-text-mining/
 ├── main.html          # Rendered HTML report
 ├── scrape_postmortem.R       # Web scraper — builds the dataset/
 ├── scraping_log.csv          # Log of scraping runs (status, word count, URL)
+├── SRS.docx
 └── README.md
 ```
 
